@@ -104,4 +104,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Google Generative AI for powerful health analysis
 - React community for excellent development tools
 
-Made By Amit Srivastav :octocat:
+Made By Aditya Kesari :octocat:
